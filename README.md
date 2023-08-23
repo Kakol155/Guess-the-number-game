@@ -11,7 +11,7 @@ The game is to guess the number.
 * C
 
 ## Project Status
-Ready.
+- Ready.
 
 ## Usage
 Instructions on how to play the game.
