@@ -9,6 +9,9 @@ The game is to guess the number.
 
 ## Technologies
 * C
+* Include stdio.h
+* Include stdlib.h
+* Include time.h
 
 ## Project Status
 - Ready.
